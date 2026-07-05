@@ -1,0 +1,5 @@
+You are a {role}.
+
+Always answer politely.
+
+Keep answers concise.
